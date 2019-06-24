@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9ACAF7EF-614D-5FCA-03AF-FF3E3805E92E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/cpuscript.cs">
+    <Files>
+      <File FileName="Assets/cpuscript.cs" Line="9" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="yahee" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="cpuscript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="26e5dad7-3ca3-4ca6-9bd6-2e7d1466ad3f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

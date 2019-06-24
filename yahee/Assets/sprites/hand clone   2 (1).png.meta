@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 6226d0c7511d24085be34a3b6d2f725c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2420058898352816989
+    second: hand clone   2 (1)_0
+  - first:
+      213: -1736125138288927719
+    second: hand clone   2 (1)_1
+  - first:
+      213: 2285653376125289341
+    second: hand clone   2 (1)_2
+  - first:
+      213: -4097424206952710463
+    second: hand clone   2 (1)_3
+  - first:
+      213: -1662995098517026526
+    second: hand clone   2 (1)_4
+  - first:
+      213: -4218575407433925771
+    second: hand clone   2 (1)_5
+  - first:
+      213: -6449546820279070929
+    second: hand clone   2 (1)_6
+  - first:
+      213: -5487225623832247065
+    second: hand clone   2 (1)_7
+  - first:
+      213: -7540251557071440309
+    second: hand clone   2 (1)_8
+  - first:
+      213: 4850316181509649435
+    second: hand clone   2 (1)_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hand clone   2 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1362
+        width: 171
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974be0039a7a24104a44d6f0ce91b577
+      internalID: -2420058898352816989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand clone   2 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1323
+        width: 225
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e0f502b692e4093bbc69e890685101
+      internalID: -1736125138288927719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand clone   2 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1323
+        width: 225
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c44993ae3874aa9970731a031fa7d8
+      internalID: 2285653376125289341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand clone   2 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1461
+        width: 381
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3070114d4a5402eba6bd7e2323d7ca
+      internalID: -4097424206952710463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand clone   2 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 885
+        width: 381
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe230847c279843e09a6ae66e3743595
+      internalID: -1662995098517026526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand clone   2 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 912
+        width: 381
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f00e50d0422248b2a767bba8219b165
+      internalID: -4218575407433925771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand clone   2 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 894
+        width: 381
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc573813487488db2301dbcda38376
+      internalID: -6449546820279070929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand clone   2 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 906
+        width: 450
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38976ea540949afb1820552a012195
+      internalID: -5487225623832247065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand clone   2 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 222
+        width: 405
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f3a5d7a1e74c668f4cd9ad782f1db
+      internalID: -7540251557071440309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand clone   2 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 222
+        width: 444
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8121914bb10284bfabd9251b7738ec97
+      internalID: 4850316181509649435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c8eff9b6b16643e4b81f0421e02a660
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
